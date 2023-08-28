@@ -21,14 +21,14 @@ pip install -r requirements.txt
 git clone https://github.com/Isclif/Facial-recognition-app-using-Facenet
 ```
 ## How to use the App ?
-```
+
 Run the ''extract_face'' program to train the Facenet model
 Then launch the program ''SVM_model'' for the classification of vector incorporations into groups of similar vectors
 And finally launch ''FaceRe'' for and press the button “Launch the camera” to test the facial recognition system
-```
+
 If you have any problems regarding this project contact me.
 
-## Enjoy the app.
+ Enjoy the app.
 
 
 ## FRENCH
@@ -48,14 +48,14 @@ pip install -r requirements.txt
 git clone https://github.com/Isclif/Facial-recognition-app-using-Facenet
 ``` 
 ## Comment utiliser l'application ?
-```
+
 Lancez le programme ''extract_face'' pour l’entrainement du modèle Facenet
 Ensuite lancez le programme ''SVM_model'' pour la classification des vecteur d’incorporations en groupe de vecteurs similaires
 Et enfin lancez ''FaceRec'' pour et appuyez sur le buton ''Lancer la camera'' pour tester le système de reconnaissance faciale
-```
+
 
 Si vous avez des problemes concernant ce project contactez moi.
 
-## Profitez de l’application.
+# Profitez de l’application.
 
 
