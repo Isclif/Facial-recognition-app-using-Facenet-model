@@ -1,5 +1,6 @@
 # Facial-recognition-app-using-Facenet
 Fcaial recognition application using Facenet / Application de reconnaissance faciale utilisant Facenet
+![ok](https://github.com/Isclif/Facial-recognition-app-using-Facenet/assets/103781091/66bec1da-1f3e-4501-8d8c-5a56c61c5496)
 
 ## ENGLISH
 
@@ -23,8 +24,9 @@ Run the extract_face program to train the Facenet model
 Then launch the program '''SVM_model'' for the classification of vector incorporations into groups of similar vectors
 And finally launch “Facerec” for and press the button “Launch the camera” to test the facial recognition system
 ```
-If you have any problems regarding this project contact me
-Enjoy the app.
+If you have any problems regarding this project contact me.
+
+## Enjoy the app.
 
 
 ## FRENCH
@@ -50,7 +52,8 @@ Ensuite lancez le programme ‘’’SVM_model’’ pour la classification des 
 Et enfin lancez ‘’Facerec’’ pour et appuyez sur le buton ‘’Lancer la camera’’ pour tester le système de reconnaissance faciale
 ```
 
-Si vous avez des problemes concernant ce project contactez moi
-Profitez de l’application.
+Si vous avez des problemes concernant ce project contactez moi.
+
+## Profitez de l’application.
 
 
