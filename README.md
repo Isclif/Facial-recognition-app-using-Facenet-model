@@ -20,7 +20,7 @@ pip install -r requirements.txt
 ```
 git clone https://github.com/Isclif/Facial-recognition-app-using-Facenet
 ```
-### How to use the App ?
+## How to use the App ?
 ```
 Run the ''extract_face'' program to train the Facenet model
 Then launch the program ''SVM_model'' for the classification of vector incorporations into groups of similar vectors
@@ -47,7 +47,7 @@ pip install -r requirements.txt
 ```
 git clone https://github.com/Isclif/Facial-recognition-app-using-Facenet
 ``` 
-### Comment utiliser l'application ?
+## Comment utiliser l'application ?
 ```
 Lancez le programme ''extract_face'' pour l’entrainement du modèle Facenet
 Ensuite lancez le programme ''SVM_model'' pour la classification des vecteur d’incorporations en groupe de vecteurs similaires
