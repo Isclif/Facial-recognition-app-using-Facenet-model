@@ -1,5 +1,5 @@
 # Facial-recognition-app-using-Facenet
-Fcaial recognition application using Facenet / Application de reconnaissance faciale utilisant Facenet
+Facial recognition application using Facenet / Application de reconnaissance faciale utilisant Facenet
 
 ![ok](https://github.com/Isclif/Facial-recognition-app-using-Facenet/assets/103781091/fdb28b5f-de7b-43d8-99b4-e4ae675a5948)
 
